@@ -1,0 +1,20 @@
+{
+  "files": {
+    "basics/decisions/simple_decision/counter.py": [
+      {
+        "id": "df66212a-4724-407f-82d8-c1fa26cb1408",
+        "line": 11,
+        "version": 465,
+        "index": 446
+      }
+    ],
+    "basics/output/ascii_art.py": [
+      {
+        "id": "d33f5e34-71df-4e21-b6b3-084b69dc286f",
+        "line": 3,
+        "version": 213,
+        "index": 48
+      }
+    ]
+  }
+}

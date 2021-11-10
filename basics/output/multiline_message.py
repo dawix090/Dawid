@@ -1,0 +1,8 @@
+print("system failure imminenet")
+print("system reboot initiated")
+print()
+print("... rebooting sensory systems")
+print("... rebooting output motors")
+print("... rebooting hover engine")
+print()
+print("system online")
